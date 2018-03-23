@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InterviewTest</string>
+    <string name="getXmWeather">获取天气数据</string>
+    <string name="hint">王晓波\n机试题：样板</string>
+    <string name="AlterDialogHint">提示</string>
+    <string name="AlterMessage">由于您拒绝电话权限该功能无法使用,是否重新开启?</string>
+    <string name="openPermission">开启权限</string>
+    <string name="refusePermission">拒绝</string>
+    <string name="permissionHint">拒绝权限，无法访问网络</string>
+</resources>
